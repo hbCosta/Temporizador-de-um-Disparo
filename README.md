@@ -46,7 +46,7 @@ Este projeto implementa um controle de LEDs utilizando um Raspberry Pi Pico. Os 
 ## Como Executar
 1. Clone o repositório do projeto:
    ```sh
-   git clone <URL_DO_REPOSITORIO>
+   git clone [<URL_DO_REPOSITORIO>](https://github.com/hbCosta/Temporizador-de-um-Disparo.git)
    ```
 2. Compile e carregue o código utilizando a extensão Raspberry Pi Pico no VsCode.
 3. Pressione o botão para iniciar a sequência de LEDs.
